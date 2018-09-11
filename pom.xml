@@ -3,7 +3,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.db1</groupId>
 	<artifactId>Calculadora</artifactId>
-	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>Calculadora Maven Webapp</name>
 	<url>http://maven.apache.org</url>
